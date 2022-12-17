@@ -8,6 +8,7 @@ Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " if you get an about 'yarn' eorro,
 " you need go to coc.nvim path to input 'yarn install'
+" input checkhealth to check about coc all is ready
 Plug 'vim-airline/vim-airline'
 Plug 'jiangmiao/auto-pairs'
 Plug 'preservim/nerdtree'
